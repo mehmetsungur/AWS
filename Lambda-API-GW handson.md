@@ -194,7 +194,7 @@ Confirm the dialog 'Add Permission to Lambda Function', Click 'OK'
 Deployment stage: [New Stage]
 Stage Name: dev
 
-- it can be seen invoke URL on top like; "https://b8pize8i6e.execute-api.us-east-1.amazonaws.com/dev" and note it down somewhere.
+- it can be seen invoke URL on top like; "https://cbhjznpql5.execute-api.us-east-1.amazonaws.com/test" and note it down somewhere.
 - Enter the Invoke URL into the web browser, add "/weather" at the end and see the generated weather with refreshing the page in the web browser.
 
 
